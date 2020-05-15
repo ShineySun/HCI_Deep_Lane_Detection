@@ -1,0 +1,1 @@
+python3 main.py --netType stackedHGB --GPUs 0 --LR 0.0007 --batchSize 2 --optimizer Adam
